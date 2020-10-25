@@ -1,3 +1,5 @@
+Welcome to SnooSearch!
+
 IMPORTANT:
 API information is not included. Users will need to open and edit snoosearch.py and enter Reddit API credentials at the top. 
 
