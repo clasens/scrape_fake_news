@@ -73,7 +73,7 @@ try:
             naughty_reddit_urls = []
             naughty_reddit_scores = []
             naughty_reddit_comments = []
-            if naughty_site != None:
+            if q = 'o':
                 for reddit_url in reddit_urls:
                     if naughty_site in reddit_url and not found_guilty:
                         naughty_reddit_urls.append(reddit_urls[i])
@@ -97,7 +97,7 @@ try:
             
             post_count = len(reddit_urls)
             
-            if naughty_site == None:
+            if q = 'o':
                 for j in range(len(naughty_reddit_urls)):
                     print("\nURL:", naughty_reddit_urls[j], "\nReddit Score:", naughty_reddit_scores[j], "\nNumber of comments:", naughty_reddit_comments[j])
                 if naughty_count == 0:
